@@ -8,7 +8,7 @@
 //  Essa classe é apenas uma cópia do código existente na página de documentação do NSFetchedResultsController
 //      criando uma subclasse do UITableViewController. Dica obtida no curso de iOS de Stanford.
 //
-//  Outras classes de TableViewController podem estender essa sendo necessário apenas definir o fetchedResultsController.
+//  Outras classes de TableViewController que usam Core Data podem estender essa, sendo necessário apenas definir o fetchedResultsController.
 //  O único método do UITableViewDataSource que precisa ser implementado é o tableView:cellForRowAtIndexPath:.
 //
 
