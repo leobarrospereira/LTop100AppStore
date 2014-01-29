@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13B42" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Aplicativo" representedClassName="Aplicativo" syncable="YES">
+        <attribute name="categoria" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dataLancamento" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desenvolvedor" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="direitos" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identificador" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imagemURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="link" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nome" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="posicao" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="preco" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="resumo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tipoConteudo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titulo" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Aplicativo" positionX="160" positionY="192" width="128" height="238"/>
+    </elements>
+</model>
