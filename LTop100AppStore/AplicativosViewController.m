@@ -10,12 +10,8 @@
 #import "Aplicativo+Create.h"
 #import "Aplicativo+Delete.h"
 
-@interface AplicativosViewController ()
-
-@end
 
 @implementation AplicativosViewController
-
 
 #pragma mark - View lifecycle
 
@@ -183,6 +179,5 @@
         }
     }
 }
-
 
 @end

@@ -9,6 +9,7 @@
 #import "DetalhesAplicativoViewController.h"
 
 @interface DetalhesAplicativoViewController ()
+
 @property (weak, nonatomic) IBOutlet UIImageView *iconeImageView;
 @property (weak, nonatomic) IBOutlet UILabel *nomeLabel;
 @property (weak, nonatomic) IBOutlet UILabel *desenvolvedorLabel;
@@ -16,6 +17,7 @@
 @property (weak, nonatomic) IBOutlet UITextView *descricaoTextView;
 
 @end
+
 
 @implementation DetalhesAplicativoViewController
 
